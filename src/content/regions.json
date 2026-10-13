@@ -1,0 +1,12 @@
+{
+  "source": "Circular 1223 (Annexure A, pages 7-8) — zones and regions",
+  "zones": [
+    { "zone": "Ambedkarnagar", "regions": ["JAUNPUR", "AMBEDKARNAGAR", "GONDA", "PRATAPGARH"] },
+    { "zone": "Chandauli", "regions": ["CHANDAULI", "SONEBHADRA", "MIRZAPUR", "KAIMUR ROHTAS", "BUXAR", "AURANGABAD"] },
+    { "zone": "Darbhanga", "regions": ["SITAMARHI & DARBHANGA", "SAMASTIPUR", "MUZAFFARPUR", "SARAN", "MADHEPURA"] },
+    { "zone": "Chitrakoot", "regions": ["TIKAMGARH", "HAMIRPUR", "FATEHPUR", "CHITRAKOOT", "SATNA"] },
+    { "zone": "Siwan", "regions": ["AZAMGARH", "GORAKHPUR", "SIWAN", "KUSHINAGAR", "EAST CHAMPARAN", "BALLIA"] },
+    { "zone": "Hazaribagh", "regions": ["GIRIDIH", "HAZARIBAGH", "WEST SINGHBHUM", "GARHWA"] },
+    { "zone": "Sarguja", "regions": ["BILASPUR", "RAIGARH", "SARGUJA", "JASHPUR", "DEOGARH"] }
+  ]
+}
