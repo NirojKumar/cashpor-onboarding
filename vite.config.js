@@ -11,7 +11,7 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      "/api": "https://cashpor-onboarding-server.vercel.app/",
+      "/api": "https://cashpor-onboarding-server.onrender.com",
     },
   },
 });
